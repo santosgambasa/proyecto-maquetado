@@ -8,3 +8,17 @@
     font-family: SpaceGrotesk;
     src: url(./fonts/Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf);
 }
+body {
+    padding: 30px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    background-color: aqua;
+    width: 100%;
+    max-width: 1500px;
+    margin: 0;
+
+}
