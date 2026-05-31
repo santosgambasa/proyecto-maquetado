@@ -155,10 +155,3 @@ meter::-webkit-meter-optimum-value{
     border-radius:500px;
 }
 
-.density div{
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    padding: 0 16px 0 16px;
-}
-
