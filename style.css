@@ -161,4 +161,24 @@ meter::-webkit-meter-optimum-value{
     gap: 16px;
     padding: 0 16px 0 16px;
 }
-
+.more button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    background: transparent;
+    color: var(--color-text-secondary);
+    padding: 8px 12px 8px 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.more {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 100px;
+}
+.more button img{
+    width: 15px;
+    height: 15px;
+}
