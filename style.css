@@ -86,7 +86,11 @@ textarea {
   padding:  10px;
   resize: none;
 }
-
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 20px 10px 20px;
+}
 
 
 
