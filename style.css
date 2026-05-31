@@ -68,3 +68,12 @@ header{
     background-color: var();
     transition: 0.3s;
 }
+h1 {
+    margin: 40px 80px 40px 80px;
+    font-size: 65px;
+    text-align:center;
+    
+}
+
+
+
